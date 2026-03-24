@@ -1,4 +1,4 @@
-# book-markert-sql-analysis
+# book-market-sql-analysis
 #  Book App Market Analysis (SQL Project)
 
 ##  Project Overview
